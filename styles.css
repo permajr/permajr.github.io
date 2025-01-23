@@ -1,0 +1,35 @@
+html{width: device-width;
+background-color: lime;
+color: red;
+font-family: Comic Sans MS;
+border: solid yellow;}
+textarea{display: block;
+margin: 10px auto}
+
+h1,p
+  {text-align: center;
+border: solid yellow;
+}
+
+
+label
+  {display: block;
+text-align: center;
+border: solid yellow;
+}
+input 
+  {display: block;
+margin: 10px auto;
+background-color: blue;
+border: solid yellow;
+}
+input[type="radio"]{display: unset;
+margin-left:50px;
+margin-top:20px;}
+::placeholder{color: lime;}
+textarea{background-color: yellow;}
+footer{margin-top: 35vh;}
+
+
+
+
